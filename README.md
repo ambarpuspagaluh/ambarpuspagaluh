@@ -1,4 +1,5 @@
 ### Hi there 👋
+Perkenealkan saya Ambar Puspa Galuh seorang progremmer yang tinggal di Bandung. Saya suka dengan dunia IT
 
 <!--
 **ambarpuspagaluh/ambarpuspagaluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
